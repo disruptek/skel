@@ -1,0 +1,2 @@
+# skel
+nim project skeleton
